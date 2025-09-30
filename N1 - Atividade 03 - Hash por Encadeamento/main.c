@@ -9,9 +9,7 @@
 #include "HashTable.h"
 #include <stdio.h>
 
-/*
-    Definição do tamanho da tabela hash
-*/
+// Definição do tamanho da tabela hash
 #define TABLE_SIZE 10
 
 int main() {

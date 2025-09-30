@@ -5,9 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* 
-    MAX_NOME: tamanho máximo do nome do aluno
-*/
+// MAX_NOME: tamanho máximo do nome do aluno
 #define MAX_NOME 100
 
 /*
